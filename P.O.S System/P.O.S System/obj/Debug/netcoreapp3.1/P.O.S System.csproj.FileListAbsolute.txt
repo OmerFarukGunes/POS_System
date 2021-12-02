@@ -1,0 +1,16 @@
+D:\Projects\POS_System\P.O.S System\P.O.S System\obj\Debug\netcoreapp3.1\P.O.S System.csproj.AssemblyReference.cache
+D:\Projects\POS_System\P.O.S System\P.O.S System\obj\Debug\netcoreapp3.1\P.O.S System.csproj.GenerateResource.cache
+D:\Projects\POS_System\P.O.S System\P.O.S System\obj\Debug\netcoreapp3.1\P.O.S System.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\POS_System\P.O.S System\P.O.S System\obj\Debug\netcoreapp3.1\P.O.S System.AssemblyInfoInputs.cache
+D:\Projects\POS_System\P.O.S System\P.O.S System\obj\Debug\netcoreapp3.1\P.O.S System.AssemblyInfo.cs
+D:\Projects\POS_System\P.O.S System\P.O.S System\obj\Debug\netcoreapp3.1\P.O.S System.csproj.CoreCompileInputs.cache
+D:\Projects\POS_System\P.O.S System\P.O.S System\bin\Debug\netcoreapp3.1\P.O.S System.exe
+D:\Projects\POS_System\P.O.S System\P.O.S System\bin\Debug\netcoreapp3.1\P.O.S System.deps.json
+D:\Projects\POS_System\P.O.S System\P.O.S System\bin\Debug\netcoreapp3.1\P.O.S System.runtimeconfig.json
+D:\Projects\POS_System\P.O.S System\P.O.S System\bin\Debug\netcoreapp3.1\P.O.S System.runtimeconfig.dev.json
+D:\Projects\POS_System\P.O.S System\P.O.S System\bin\Debug\netcoreapp3.1\P.O.S System.dll
+D:\Projects\POS_System\P.O.S System\P.O.S System\bin\Debug\netcoreapp3.1\P.O.S System.pdb
+D:\Projects\POS_System\P.O.S System\P.O.S System\obj\Debug\netcoreapp3.1\P.O.S System.dll
+D:\Projects\POS_System\P.O.S System\P.O.S System\obj\Debug\netcoreapp3.1\P.O.S System.pdb
+D:\Projects\POS_System\P.O.S System\P.O.S System\obj\Debug\netcoreapp3.1\P.O.S System.genruntimeconfig.cache
+D:\Projects\POS_System\P.O.S System\P.O.S System\obj\Debug\netcoreapp3.1\P.O.S_System.Form.resources
