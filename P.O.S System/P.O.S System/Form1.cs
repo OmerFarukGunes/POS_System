@@ -126,7 +126,10 @@ namespace P.O.S_System
         }
         private void Reset_Click(object sender, EventArgs e)
         {
-            TableofSelected = null;
+            while (TableofSelected.Rows.Count > 1)
+            {
+                TableofSelected.Rows.Remove(TableofSelected.Rows[0]);
+            }
             price = 0;
             Calculate();
         }
